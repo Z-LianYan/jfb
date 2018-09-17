@@ -234,7 +234,7 @@ export default class extends wepy.app {
     opId:'',
 //    baseUrl: 'http://192.168.0.102:8888/'//利民
 //    baseUrl: 'http://120.78.218.32/jfbApi'//test
-  baseUrl: 'https://jfb.vshi5.com/jfbSite/'//正式
+  		baseUrl: 'https://jfb.vshi5.com/jfbApi/'//正式
   }
 
   constructor () {
